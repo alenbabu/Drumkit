@@ -1,0 +1,2 @@
+# Drumkit
+Simple javascript project
